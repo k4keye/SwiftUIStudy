@@ -13,6 +13,7 @@
 		E35614D727D4C03E00477F09 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E35614D627D4C03E00477F09 /* Preview Assets.xcassets */; };
 		E35614DE27D4C06E00477F09 /* MyProjectCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35614DD27D4C06E00477F09 /* MyProjectCard.swift */; };
 		E35614E027D4C53700477F09 /* MyBasicCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35614DF27D4C53700477F09 /* MyBasicCard.swift */; };
+		E35614E227D4EB7500477F09 /* MyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35614E127D4EB7500477F09 /* MyCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E35614D627D4C03E00477F09 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E35614DD27D4C06E00477F09 /* MyProjectCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProjectCard.swift; sourceTree = "<group>"; };
 		E35614DF27D4C53700477F09 /* MyBasicCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBasicCard.swift; sourceTree = "<group>"; };
+		E35614E127D4EB7500477F09 /* MyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E35614D527D4C03E00477F09 /* Preview Content */,
 				E35614DD27D4C06E00477F09 /* MyProjectCard.swift */,
 				E35614DF27D4C53700477F09 /* MyBasicCard.swift */,
+				E35614E127D4EB7500477F09 /* MyCard.swift */,
 			);
 			path = SwiftUIStudy_StackCardView;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				E35614DE27D4C06E00477F09 /* MyProjectCard.swift in Sources */,
 				E35614D227D4C03D00477F09 /* ContentView.swift in Sources */,
 				E35614E027D4C53700477F09 /* MyBasicCard.swift in Sources */,
+				E35614E227D4EB7500477F09 /* MyCard.swift in Sources */,
 				E35614D027D4C03D00477F09 /* SwiftUIStudy_StackCardViewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
